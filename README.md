@@ -1,7 +1,9 @@
 ### Computer Networks
 
 LAB exercises for Computer Networks Class at 7th semester in ECE NTUA.
+
 Inside each directory you can find the exercise along with my answers.
+
 Both files are in greek.
 
 ---
